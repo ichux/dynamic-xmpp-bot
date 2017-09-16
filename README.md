@@ -14,4 +14,4 @@ your chat client, I used [adium](https://adium.im/) for this demo.
 A [png](Screen%20Shot%202017-09-16%20at%204.52.58%20AM.png) was taken to show the application working as expected
 
 # Growing wings
-You could add more information to call withing the [collectibles](collectibles.py) file. The sky is your limit!
+You could add more information to call within the [collectibles](collectibles.py) file. The sky is your limit!
