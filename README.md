@@ -1,5 +1,5 @@
 # dynamic-xmpp-bot
-The demo code of the XMPP bots talk I gave at PyConNG 2017.
+The demo code of the XMPP bots talk I gave at [PyConNG 2017](https://twitter.com/0b1101111/status/908911050774466560).
 
 # XMPP server
 A local [prosody](https://prosody.im/) server, running on an Ubuntu 16.04 in a VirtualBox was set up and used. Then it
